@@ -1,0 +1,4 @@
+@EndUserText.label: 'Vendor Service'
+define service ZUIVENDORSRV {
+  expose ZICVendorCube;
+}
